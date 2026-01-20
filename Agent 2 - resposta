@@ -1,0 +1,136 @@
+Olá! Recebi suas informações do entrevistador.
+
+Vejo que você escolheu **Desenvolvedor Full Stack (com aspiração a Developer Advocate)** e tem **10 horas por semana** para estudar. Perfeito! Como você já possui experiência prévia e está em transição de carreira, vamos focar em converter sua bagagem anterior e sua excelente oratória em diferenciais competitivos no mercado de tecnologia.
+
+Vou montar agora seu plano completo personalizado...
+
+---
+
+🧩 **VISÃO DO DIA A DIA**
+
+Como é o trabalho de um(a) **Desenvolvedor Full Stack & Developer Advocate**:
+
+* **Desenvolvimento de Features:** Codificação de ponta a ponta, desde a interface (Frontend) até a lógica de servidor e banco de dados (Backend).
+* **Code Review e Mentoria:** Analisar o código de colegas e ajudar na evolução técnica do time.
+* **Criação de Conteúdo Técnico:** Escrita de artigos, documentação e tutoriais sobre as tecnologias que a empresa utiliza.
+* **Engajamento com a Comunidade:** Palestras em eventos (Meetups/Conferências) e interação em fóruns ou redes sociais para ajudar outros devs.
+* **Provas de Conceito (PoCs):** Criar pequenos aplicativos rápidos para testar novas bibliotecas ou ferramentas de IA.
+
+🧠 **MAPA DE SKILLS**
+
+**CORE SKILLS (essenciais):**
+
+* **JavaScript/TypeScript:** A base para Full Stack moderno e Web.
+* **Arquitetura de APIs:** Saber conectar o Front com o Back de forma escalável.
+* **Comunicação Técnica:** Capacidade de explicar conceitos complexos de forma simples.
+
+**NICE-TO-HAVE (complementares):**
+
+* **Prompt Engineering & Integração de IA:** Uso de APIs como OpenAI no desenvolvimento.
+* **Mobile Nativo/Híbrido:** Conhecimento básico de Android/Kotlin ou React Native.
+
+**FERRAMENTAS E TECNOLOGIAS:**
+
+* **Stack:** React.js (Front), Node.js (Back) e MongoDB/PostgreSQL.
+* **Android:** Kotlin ou integração via WebViews/PWA.
+* **Soft Skills:** Oratória, Storytelling para apresentações e escrita técnica.
+
+📅 **ROADMAP DE 90 DIAS**
+
+ADAPTADO PARA: **10 horas/semana**
+
+**MÊS 1 - FUNDAMENTOS E TRANSIÇÃO**
+
+**SEMANA 1-2:**
+
+* Revisão acelerada de lógica e ES6+ (foco em Gaps).
+* Configuração de ambiente e criação de um "Talk Repositorio" (GitHub estruturado para portfólio).
+
+**SEMANA 3-4:**
+
+* Domínio de React.js: Componentização e Hooks.
+* Primeira "Talk Tech": Gravar um vídeo de 5 min explicando um conceito técnico (treino de Advocacy).
+
+**MÊS 2 - PRÁTICA E BACKEND**
+
+**SEMANA 5-6:**
+
+* Construção de APIs com Node.js e Express.
+* Conexão com Banco de Dados e autenticação JWT.
+
+**SEMANA 7-8:**
+
+* Integração de IA: Criar um endpoint que consome uma API de Inteligência Artificial.
+* Fundamentos de Android: Entender o ciclo de vida de uma aplicação mobile.
+
+**MÊS 3 - PORTFÓLIO E PREPARAÇÃO**
+
+**SEMANA 9-10:**
+
+* Desenvolvimento do Projeto Final (Full Stack + IA).
+* Escrita de um artigo técnico no LinkedIn/Medium sobre o projeto desenvolvido.
+
+**SEMANA 11-12:**
+
+* Refinamento de currículo para Transição de Carreira.
+* Simulação de entrevistas técnicas e comportamentais.
+
+🚀 **PROJETO DE PORTFÓLIO**
+
+**PROJETO:** "IA-Advocate Hub"
+
+**O QUE FAZER:**
+Um web app que permite a usuários enviarem links de repositórios GitHub e, através de uma integração com IA, gera automaticamente um roteiro de apresentação/palestra (script de oratória) sobre aquele código.
+
+**ENTREGÁVEIS:**
+
+* Frontend em React com dashboard.
+* Backend Node.js com integração de API de IA.
+* README.md escrito em formato de tutorial (estilo Developer Advocate).
+
+**CRITÉRIOS DE ACEITAÇÃO:**
+
+* Deve ser responsivo (funcionar no mobile).
+* Deve salvar o histórico de scripts gerados em um banco de dados.
+* O código deve estar documentado para que outros desenvolvedores possam contribuir.
+
+**DICA:** Como você quer ser Dev Advocate, faça um vídeo de "Demo" do projeto e poste no seu LinkedIn. Isso demonstra código e fala ao mesmo tempo!
+
+💬 **ROTEIRO DE ENTREVISTAS**
+
+**PERGUNTA 1:** "Você está em transição de carreira. Como sua experiência anterior te ajuda como Full Stack?"
+**COMO RESPONDER:** Destaque suas soft skills (gestão de tempo, resolução de problemas) e como a maturidade profissional te permite aprender novas tecnologias com foco no negócio.
+
+**PERGUNTA 2:** "Por que você se interessa pela área de Developer Advocacy?"
+**COMO RESPONDER:** "Gosto de construir produtos, mas sinto que meu impacto é maior quando ajudo outros desenvolvedores a terem sucesso com a tecnologia através da comunicação e ensino."
+
+**PERGUNTA 3:** "Explique como funciona uma integração de API para alguém não técnico."
+**COMO RESPONDER:** Use uma analogia (como o garçom entre a cozinha e o cliente) para demonstrar sua capacidade de oratória e didática.
+
+**PERGUNTA 4:** "Como você lidaria com um bug crítico em produção?"
+**COMO RESPONDER:** Foco em processo: Identificação -> Isolamento -> Correção -> Post-mortem para evitar que ocorra novamente.
+
+**PERGUNTA 5:** "Como você se mantém atualizado com as tendências de IA e Web?"
+**COMO RESPONDER:** Mencione newsletters, comunidades que participa e seus próprios experimentos práticos postados no GitHub.
+
+🎓 **TRILHA DIO RECOMENDADA**
+
+**TRILHA:** **Formação React Developer** ou **Bootcamp Coding The Future (focado em IA/Fullstack)**.
+
+**POR QUE ESSA TRILHA:**
+Essas trilhas da DIO equilibram perfeitamente o desenvolvimento de código sólido com a prática de projetos, o que te dará material para criar seus conteúdos de "Advocacy".
+
+**PRÓXIMOS PASSOS:**
+
+1. Acesse dio.me
+2. Busque por **"React Developer"** ou **"Fullstack"**
+3. Inscreva-se gratuitamente
+4. Siga o cronograma junto com este roadmap
+
+---
+
+✨ **Seu plano está pronto!**
+
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
+
+Tem alguma dúvida sobre o plano? Posso detalhar alguma parte específica, como a integração com IA ou como estruturar seu primeiro artigo técnico?
